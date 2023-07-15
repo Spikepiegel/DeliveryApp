@@ -44,8 +44,5 @@
     <td align="center">
       <img src="ScreenImages/5.png" alt="Example Image" width="250" height="500">
     </td>
-    <td align="center">
-      <img src="ScreenImages/6.png" alt="Example Image" width="250" height="500">
-    </td>
   </tr>
 </table>
