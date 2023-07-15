@@ -23,3 +23,29 @@
 
 <p><strong> 📸 Photo and Video: </strong></p>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="ScreenImages/1.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+    <td align="center">
+      <img src="ScreenImages/2.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+    <td align="center">
+      <img src="ScreenImages/3.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="ScreenImages/4.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+    <td align="center">
+      <img src="ScreenImages/5.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+    <td align="center">
+      <img src="ScreenImages/6.jpeg" alt="Example Image" width="250" height="500">
+    </td>
+  </tr>
+</table>
